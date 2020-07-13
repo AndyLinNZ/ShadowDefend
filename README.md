@@ -7,10 +7,9 @@ ShadowDefend is a balloon tower defence based game. This project was created to 
 3) Add bagel.jar into the "lib" folder as a project library
 4) Run ShadowDefend.java file
 
+* 'To change the wave spawns, change the waves.txt file in res/levels'
+
 ## Demo
 ![screenshot_demo](screenshots/Example1.png)
-
-## Changes
-To change the wave, edit the waves.txt file in res/levels
 
 

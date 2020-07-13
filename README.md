@@ -8,6 +8,6 @@ ShadowDefend is a balloon tower defence based game. This project was created to 
 4) Run ShadowDefend.java file
 
 ## Demo
-
+![screenshot_demo](screenshots/Example1.png)
 
 

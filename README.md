@@ -3,11 +3,14 @@ ShadowDefend is a balloon tower defence based game. This project was created to 
 
 ## How to play
 1) Clone the repository
-2) Open in a IDE such as VS-Code or IntelliJ
+2) Open in an IDE such as VS-Code or IntelliJ
 3) Add bagel.jar into the "lib" folder as a project library
 4) Run ShadowDefend.java file
 
 ## Demo
 ![screenshot_demo](screenshots/Example1.png)
+
+## Changes
+To change the wave, edit the waves.txt file in res/levels
 
 
